@@ -1,4 +1,4 @@
 # PythonFlashCards
-Simple flashcard GUI built with TKinter and python.
+Simple flashcard GUI built with TKinter and python. Subject is python concepts up to day 41 of 100 days of Python by Angela Yu
 If concept on flashcard is known, that flashcard is removed from the pool of flashcards.
-Once all concepts are known, the user must delete to_learn.csv file to begin the program from initial state.
+Once all concepts are known, the game restarts from it's initial state
